@@ -1,0 +1,5 @@
+attack,grad_calls,sec_per_1000,white_box_acc,transfer_acc_s1,transfer_acc_s2,mean_L2
+FGSM,1,0.46,0.12,0.319,0.302,1.7242
+BIM,10,4.49,0.0,0.075,0.072,1.185
+PGD,10,4.51,0.0,0.091,0.08,1.2243
+MI-FGSM,10,4.57,0.0,0.076,0.076,1.3119

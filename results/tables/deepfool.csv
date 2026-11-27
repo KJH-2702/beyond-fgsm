@@ -1,0 +1,2 @@
+attack,n_correct_clean,n_fooled,median_L2,median_Linf_255,sec_per_1000
+DeepFool,925,925,0.0974,3.15,22.13
